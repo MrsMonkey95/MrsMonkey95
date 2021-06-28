@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MrsMonkey95
-- 👀 I’m interested in programming, gaming, drawing, poetry and listening to music.
-- 🌱 I’m currently learning social skills.
+- 👀 I’m interested in programming, crypto, gaming, drawing, poetry and listening to music.
+- 🌱 I’m currently learning Spring Boot, Maven, Docker, Kubernetes, Helm, Continuous Integration, React and Groovy.
 - 💞️ I’m looking to collaborate on nothing specific.
 - 📫 How to reach me twitter @MrsMonkey95
 
